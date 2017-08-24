@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+.politician {
+	padding: 5px;
+	margin: 8px;
+	color: white;
+	background-color: #7496c2;
+	border-radius: 10px;
+
+}
+
+#politician-Buttons {
+	font-size: 20px;
+}
+
+#addPolitician-form {
+	margin: 15px;
+	font-size: 20px;
+}
+
+#gifsArea {
+	margin-left: 10px;
+	
+}
+
+
+footer {
+
+	margin-top: 200px;
+    width: 100%;
+    text-align: center;
+}
